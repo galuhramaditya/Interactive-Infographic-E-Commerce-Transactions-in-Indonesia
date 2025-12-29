@@ -67,7 +67,3 @@ http://localhost:8000/index.html
 ## Notes
 
 The application is delivered as a static HTML page and runs entirely in the browser without requiring a backend server. All interactions are handled client-side. The dataset and visualization are intended for analytical and educational use.
-
-```
-
-```
