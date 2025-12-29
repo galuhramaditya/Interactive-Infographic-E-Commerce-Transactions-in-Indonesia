@@ -1,3 +1,5 @@
+Live application: https://interactive-infographic-e-commerce-transactions-in-indonesia.streamlit.app/
+
 # Interactive Infographic: E-Commerce Transactions in Indonesia (2024)
 
 This project presents an interactive infographic for exploring e-commerce transaction data in Indonesia during 2024. The visualization enables users to examine temporal trends, compare categories, and explore transactional behavior through interactive visual techniques.
